@@ -1,3 +1,13 @@
+To run the project on Vercel Platform:
+
+[Contacts](https://contacs-web.vercel.app/contacts)
+
+[SignIn](https://contacs-web.vercel.app/sign-in)
+
+[SignUp](https://contacs-web.vercel.app/sign-up)
+
+The API on the server [AWS ECS](http://35.89.242.134:8080/)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
